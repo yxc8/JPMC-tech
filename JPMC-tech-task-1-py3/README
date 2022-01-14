@@ -1,4 +1,7 @@
 # JPMC-tech-task-1-py3
 the Interface with a stock price data feed Module
+
+Setup Windows environment
 Code changes
 Write unit tests: build act assert
+Make a patch file
